@@ -14,6 +14,4 @@ int main()
     divide = (float)first / second;
 
     printf("Result of division: %.2f\n", divide);
-
-    return 0;
 }
