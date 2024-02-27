@@ -6,7 +6,7 @@ int main()
     float divide;
 
     printf("Enter the first number: ");
-    scanf("%d", &first);
+    scanf("%d",);
 
     printf("Enter the second number: ");
     scanf("%d", &second);
