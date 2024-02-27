@@ -9,7 +9,7 @@ int main()
     scanf("%d",);
 
     printf("Enter the second number: ");
-    scanf("%d", &second);
+    scanf("%d", &);
 
     divide = (float)first / second;
 
